@@ -15,3 +15,6 @@ rhgrueig
 
 fanfan
 ss
+
+
+大小写不敏感
